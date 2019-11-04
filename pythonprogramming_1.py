@@ -1,3 +1,4 @@
+#C:\Users\ro\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\ro\AppData\Local\Programs\Python\Python37\;C:\Users\ro\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\ro\AppData\Local\Programs\Python\Python37\;C:\Users\ro\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\ro\AppData\Local\Programs\Python\Python37\;C:\Users\ro\AppData\Local\atom\bin
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import style

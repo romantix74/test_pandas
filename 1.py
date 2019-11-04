@@ -13,7 +13,7 @@ end = datetime.datetime(2018, 1, 27)
 tiker = 'SBERP'
 
 f = web.DataReader(tiker, 'moex', start='2018-07-01', end='2018-07-31')
-print f.head()
+print(f) #.head()
 
 # import pandas_datareader as pdr
 # import datetime 
